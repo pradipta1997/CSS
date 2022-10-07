@@ -1,0 +1,22 @@
+body{
+	background-color: black;
+	background-image: url(gambar/smallicongoogle.png);
+	background-repeat: no-repeat;
+	background-position: bottom right;
+
+}
+
+h1{
+	color: white;
+} 
+
+h3{
+	color: white;
+	text-align: left;
+}
+
+p{
+	color: white;
+	font-family: calibri;
+	font-size: 20px;
+}

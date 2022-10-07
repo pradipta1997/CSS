@@ -1,0 +1,22 @@
+/*Belajar mengenal text styling */
+
+h1 {
+	color: goldenrod;
+	font-size: 80px;
+	font-family: arial;
+
+}
+
+p{
+	color: forestgreen;
+	font-family: calibri;
+	font-size: 25px;
+	text-align: justify;
+	text-indent: 70px;
+	word-spacing: 10px;
+	letter-spacing: ;
+}
+
+a {
+	text-decoration: none;
+}
